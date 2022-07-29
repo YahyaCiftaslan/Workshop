@@ -1,0 +1,50 @@
+.div{
+    color: rgb(35, 35, 119);
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    
+}
+.img{
+    width: 35%;
+}
+body{
+    background-color: rgb(212, 203, 219);
+}
+.yazı{
+    background-color: rgb(145, 28, 180);
+    width: 80%;
+    margin: auto;
+    border-radius: .7rem;
+    padding: 1rem;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    padding-left: .7rem;
+}
+.sarı{
+    padding-left: 1rem ;
+    color: yellow;
+    border-left: 3px solid yellow
+    
+}
+ul{
+    list-style: none;
+    padding-left: .7rem;
+}
+li{
+    margin: .7rem 0
+    
+}
+a {
+    padding: 15px;
+    display: inline-block;
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+    background-color: rgb(249, 202, 36);
+    border-radius: 8px;
+    font-weight: bold;
+    cursor: pointer;
+    
+}
+a:hover {
+        background-color: rgb(71, 62, 8);
+    }
